@@ -1,2 +1,0 @@
-D:/coding/flutter/tugas_flutter_1/.android/Flutter/.cxx/debug/v641p1h1/x86_64/CMakeFiles/edit_cache.dir
-D:/coding/flutter/tugas_flutter_1/.android/Flutter/.cxx/debug/v641p1h1/x86_64/CMakeFiles/rebuild_cache.dir

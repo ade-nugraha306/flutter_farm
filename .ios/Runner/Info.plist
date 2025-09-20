@@ -11,9 +11,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>tugas_flutter_1</string>
+	<string>flutter_farm</string>
 	<key>CFBundleDisplayName</key>
-	<string>Tugas Flutter 1</string>
+	<string>Flutter Farm</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
