@@ -14,7 +14,7 @@ class _ScreenPertamaState extends State<ScreenPertama> {
     final DateTime? picked = await showDatePicker(
       context: context,
       initialDate: DateTime.now(),
-      firstDate: DateTime(2000),
+      firstDate: DateTime(1900),
       lastDate: DateTime(2100),
     );
 
@@ -100,7 +100,8 @@ class _ScreenPertamaState extends State<ScreenPertama> {
                     padding: const EdgeInsets.only(right: 16),
                     child: FadeInImage.assetNetwork(
                       placeholder: "assets/images/loading.gif",
-                      image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDAXjbNpA2IwhA6Q_uQUuD45V4Riv0VrpUDg&s",
+                      image:
+                          "https://cdn.houseplansservices.com/product/5cp3g9i5d88m4tpdm2a2eankvq/w800x533.jpg?v=2hA6Q_uQUuD45V4Riv0VrpUDg&s",
                       width: 300,
                       height: 300,
                       fit: BoxFit.cover,
@@ -111,7 +112,7 @@ class _ScreenPertamaState extends State<ScreenPertama> {
                     padding: const EdgeInsets.only(right: 16),
                     child: FadeInImage.assetNetwork(
                       placeholder: "assets/images/loading.gif",
-                      image: "https://cache.lahelu.com/image-PkkKJ4N1A-71421",
+                      image: "https://nagantour.com/wp-content/uploads/2023/12/farm-house-lembang.webp",
                       width: 300,
                       height: 300,
                       fit: BoxFit.cover,
@@ -122,7 +123,8 @@ class _ScreenPertamaState extends State<ScreenPertama> {
                     padding: const EdgeInsets.only(right: 16),
                     child: FadeInImage.assetNetwork(
                       placeholder: "assets/images/loading.gif",
-                      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5I3_fH9jrE2tCs--YYfgYbblvp7XyovVUdA&sap-rocky-net-worth.jpg",
+                      image:
+                          "https://thearchitectsdiary.com/wp-content/uploads/2025/05/modern-farm-house-3-1024x682.jpg",
                       width: 300,
                       height: 300,
                       fit: BoxFit.cover,
