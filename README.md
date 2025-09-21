@@ -133,7 +133,7 @@ Build  from the source and intsall dependencies:
 
 Run the project with:
 
-**Using [pub](https://dart.dev/):**
+**Using [flutter](https://docs.flutter.dev/reference/flutter-cli):**
 ```sh
 flutter run -d your-device-name
 ```
