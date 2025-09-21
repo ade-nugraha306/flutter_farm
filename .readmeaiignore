@@ -1,0 +1,13 @@
+# Flutter boilerplate folders
+android/
+ios/
+web/
+build/
+test/
+
+# IDE configs
+.idea/
+.vscode/
+
+# Git metadata
+.git/
